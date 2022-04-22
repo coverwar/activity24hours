@@ -41,10 +41,10 @@ $lang = array_merge($lang, array(
 	'USERS_24HOUR_TOTAL'	=>  '%d registrati,',
 	'HIDDEN_24HOUR_TOTAL'	=> ' %d nascosti, ',
 	'GUEST_ONLINE_24'		=> array(
-		1 => ' and %d ospite',
-		2 => ' and %d ospiti',
+		1 => ' e %d ospite',
+		2 => ' e %d ospiti',
 	),
-	'LAST_24_HOURS'	=> ' attivo nelle ultime 24 ore',
+	'LAST_24_HOURS'	=> ' attivi nelle ultime 24 ore',
 	'24HOUR_TOPICS'			=> 'Nuovi Argomenti %d',
 	'24HOUR_POSTS'			=> 'Nuovi Post %d',
 	'24HOUR_USERS'			=> 'Nuovi Utenti %d',
@@ -53,6 +53,6 @@ $lang = array_merge($lang, array(
 	'TWENTYFOURHOUR_STATS'	=> 'Attività nelle ultime 24 ore',
 	'TOTAL_24HOUR_USERS'	=> array(
 		1 => 'In totale era connesso %d utente :: ',
-		2 => 'In total erano connessi %d utenti :: ',
+		2 => 'In totale erano connessi %d utenti :: ',
 	),
 ));
