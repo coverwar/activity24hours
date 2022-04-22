@@ -52,7 +52,7 @@ $lang = array_merge($lang, array(
 
 	'TWENTYFOURHOUR_STATS'	=> 'Attività nelle ultime 24 ore',
 	'TOTAL_24HOUR_USERS'	=> array(
-		1 => 'In total there was %d utente :: ',
-		2 => 'In total there were %d utenti :: ',
+		1 => 'In totale era connesso %d utente :: ',
+		2 => 'In total erano connessi %d utenti :: ',
 	),
 ));
